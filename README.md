@@ -28,4 +28,14 @@ This project allows you to add, view, search, delete, and recommend books based 
 4. On exit, the book list is saved to `books.txt` for future sessions.
 
 ## Sample Menu
+BOOKSHELF MENU
+1. Add Book
+2. View All Books
+3. Search Book
+4. Recommend by Genre
+5. Delete Book
+6. Exit
+Select an option (1-6): 
+
+
 
